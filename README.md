@@ -52,12 +52,12 @@ git clone https://github.com/your-username/CrossyRoad.git
 
 #### 2. Locate the Unreal Project File:
 
--Navigate to the cloned Crossy Road project directory on your local machine.
--Look for the Unreal Engine project file (typically with a .uproject extension).
+- Navigate to the cloned Crossy Road project directory on your local machine.
+- Look for the Unreal Engine project file (typically with a .uproject extension).
 
 #### 3. Open and Run in the Engine Environment:
 
-- ouble-click on the Unreal Engine project file to open it in the Unreal Engine environment.
+- double-click on the Unreal Engine project file to open it in the Unreal Engine environment.
 - Once the project is loaded, you can run it directly within the engine environment.
 
 That's it! You're now ready to explore the vibrant world of Crossy Road. Should you encounter any issues or have suggestions for improvement, feel free to contribute or reach out for assistance. Happy gaming!
