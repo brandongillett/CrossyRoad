@@ -35,7 +35,6 @@
   Embark on an adventure through the pixels and code of Crossy Road, a testament to creativity, learning, and the boundless possibilities within the realm of game development.
       
 ## 🏁 Getting Started <a name = "getting_started"></a>
-All you will need to get started is an updated version of Docker on any system
 
 ### Prerequisites
 - Unreal Engine 5
